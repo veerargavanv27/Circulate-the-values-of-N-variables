@@ -29,8 +29,6 @@ def circulate():
      print("After circulating the values are:",l)
 ```
 ## Output:
-
 ![output](outputn.jpg)
-
 ## Result:
 Thus the circulate N values are successfully executed
